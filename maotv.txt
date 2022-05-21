@@ -209,7 +209,7 @@
  {
       "key": "独播",
       "name": "独播",
-      "type": 0,
+      "type": 1,
       "api": "http://35ys.cc/api.php/v1.vod/",
       "playUrl": ""
     }, 
