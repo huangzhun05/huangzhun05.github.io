@@ -1,11 +1,11 @@
 {
   "sites": [
     { 
-"key": "江湖资源",
+"key": "dubo",
  
-"name": "江湖资源",
+"name": "du",
 "type": 1,
-"api": "http://jhzy.jhdyw.vip:8091/api.php/provide/vod",
+"api": "http://35ys.cc/api.php/v1.vod",
 
 "playUrl": "",
 
