@@ -207,10 +207,10 @@
 
  },
  {
-      "key": "18禁.84鲨鱼",
-      "name": "18禁.84鲨鱼",
+      "key": "独播",
+      "name": "独播",
       "type": 0,
-      "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+      "api": "http://35ys.cc/api.php/v1.vod/",
       "playUrl": ""
     }, 
    
