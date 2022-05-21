@@ -5,7 +5,7 @@
  
 "name": "du",
 "type": 1,
-"api": "http://35ys.cc/api.php/v1.vod",
+"api": "http://jf.35ys.cc/lehailb_api.php/v1.vod",
 
 "playUrl": "",
 
