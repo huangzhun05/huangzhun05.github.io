@@ -2434,7 +2434,7 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-{"name": "风车",
+{"name": "39风车",
 "url": "https://www.dm530p.net/",
 "User": "空",
 "fenlei": "电影$/vodshow/1--------1---/page/#剧集$/vodshow/2--------1---/page/#综艺$/vodshow/3--------1---/page/#动漫$/vodshow/4--------1---/page/#纪录片$/vodshow/20--------1---/page/#国产剧$/vodshow/13--------1---/page/#港台剧$/vodshow/14--------1---/page/#日韩剧$/vodshow/15--------1---/page/#欧美剧$/vodshow/16--------1---/page/#哔哩哔哩$/vodshow/39--------1---/page/#喜剧片$/vodshow/7--------1---/page/#爱情片$/vodshow/8--------1---/page/#科幻片$/vodshow/9--------1---/page/#恐怖片$/vodshow/10--------1---/page/#剧情片$/vodshow/11--------1---/page/#",
@@ -2489,7 +2489,8 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""}，{"name": "39-23影院",
+"bflianjiehou": "\""}，
+{"name": "40-23",
 "url": "https://www.23wm.net",
 "User": "空",
 "fenlei": "电影$/vodshow/1--------1---/page/#剧集$/vodshow/2--------1---/page/#综艺$/vodshow/3--------1---/page/#动漫$/vodshow/4--------1---/page/#纪录片$/vodshow/20--------1---/page/#国产剧$/vodshow/13--------1---/page/#港台剧$/vodshow/14--------1---/page/#日韩剧$/vodshow/15--------1---/page/#欧美剧$/vodshow/16--------1---/page/#哔哩哔哩$/vodshow/39--------1---/page/#喜剧片$/vodshow/7--------1---/page/#爱情片$/vodshow/8--------1---/page/#科幻片$/vodshow/9--------1---/page/#恐怖片$/vodshow/10--------1---/page/#剧情片$/vodshow/11--------1---/page/#",
