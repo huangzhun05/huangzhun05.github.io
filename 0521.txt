@@ -2603,7 +2603,7 @@
 "bfbiaotiqian": ">",
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""}，
+"bflianjiehou": "\""},
 {"name": "风车动漫",
 "url": "https://www.dm530p.net",
 "tihuan": "",
