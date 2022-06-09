@@ -84,7 +84,7 @@
 {"name":"005-CV影视","url":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"name":"006-红牛资源","url":"https://www.hongniuzy2.com/api.php"},
 {"name":"007-飘花资源","url":"http://www.zzrhgg.com/api.php"},
-{"name":"008-三级2号","url":"http://phoebe.cf/api.php/iptv/vod/"},
+{"name":"008-2号","url":"http://phoebe.cf/api.php/iptv/vod/"},
 {"name":"009-柚子資源","url":"http://tv.aitesucai.xyz/api.php"},
 {"name":"010-聚多视频","url":"http://jdys.weetai.cn/api.php/iptv/vod/"},
 {"name":"011-柠檬影视","url":"http://106.12.113.90:7575/api.php/iptv/vod/"},
