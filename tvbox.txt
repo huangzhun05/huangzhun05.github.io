@@ -4,7 +4,9 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcXE1OTE0MDkwMTYvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qq591409016/TVBox/raw/branch/master/MaooXP/duboku.json"},
-{"key":"if101资源t1","name":"if101(海外推荐)","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":0,"filterable":0},
+{"key":"csp_BBB","name":"🐞哔哩哔哩","type": 3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/bili.json"},
+{"key":"csp_Blixs","name":"🐞相声小品","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bliyc","name":"🐞演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/singers.json"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
