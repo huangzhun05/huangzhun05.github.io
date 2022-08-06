@@ -1,7 +1,3 @@
-# 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 https://gitea.com/qq591409016/TVBox/raw/branch/master/meow.json --> 确定
-
-
 {
 //"spider":"https://gitea.com/qq591409016/TVBox/raw/branch/master/MaooXB2/XBiubiuLA3.jar",
 "spider":"https://gitea.com/qq591409016/TVBox/raw/branch/master/MaooXB2/XBiubiuLA4.jar",
