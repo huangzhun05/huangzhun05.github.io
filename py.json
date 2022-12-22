@@ -18,14 +18,14 @@
 		"filterable": 1,
 		"ext": "https://9xi4o.tk/plugin/py_bilivd.py"
 	},{
-		"key": "py_bilibili_baby",
-		"name": "哔哩少儿",
+		"key": "py_libvio",
+		"name": "liv",
 		"type": 3,
-		"api": "py_bilibili_baby",
+		"api": "py_libvio",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://huangzhun05.github.io/py/py_bilibili_baby.py"
+		"ext": "https://huangzhun05.github.io/py/py_libvio.py"
 	},{
 		"key": "py_3qu",
 		"name": "3QU",
