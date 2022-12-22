@@ -36,6 +36,15 @@
 		"filterable": 1,
 		"ext": "https://9xi4o.tk/plugin/py_cctv.py"
 	},{
+		"key": "py_bilibili1",
+		"name": "哔哩1",
+		"type": 3,
+		"api": "py_bilibili1",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "huangzhun05.github.io/py_bilibili1.py"
+	},{
 		"key": "py_czspp",
 		"name": "厂长",
 		"type": 3,
